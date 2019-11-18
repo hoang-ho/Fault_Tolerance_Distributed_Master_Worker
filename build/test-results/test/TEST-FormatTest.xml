@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FormatTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-11-18T17:55:11" hostname="1x-nat-vl931-172-30-133-26.wireless.umass.edu" time="20.312">
+  <properties/>
+  <testcase name="testFormat[0]" classname="FormatTest" time="10.146"/>
+  <testcase name="testFormat[1]" classname="FormatTest" time="10.166"/>
+  <system-out><![CDATA[Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting worker using 5000
+Start distributing work
+Starting heartbeat 
+Sending message: /Users/hoangho/project-2-group-29/build/resources/test/simple.txt
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/hoangho/project-2-group-29/output_files/simple.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+Creating a new worker
+New Worker Created with port 5000 and heartbeat 5001
+Starting worker heartbeat using 5001
+Starting heartbeat 
+Start distributing work
+Starting worker using 5000
+Sending message: /Users/hoangho/project-2-group-29/build/resources/test/random.txt
+At heartbeat 0 received Alive
+Exiting heartbeat 0
+Exiting worker heartbeat 5001
+Worker finishes writing to file /Users/hoangho/project-2-group-29/output_files/random.txt
+Exit thread 0
+Current stack of work: []
+Everything finished
+finished outstream
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
