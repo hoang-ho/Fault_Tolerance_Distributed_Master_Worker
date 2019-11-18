@@ -1,135 +1,0 @@
-Creating a new worker
-5New Worker Created with port 5000 and heartbeat 5001
-%Starting worker heartbeat using 5001
-Starting worker using 5000
-Start distributing work
-Starting heartbeat 
-SSending message: /Users/hoangho/project-2-group-29/build/resources/test/simple.txt
-At heartbeat 0 received Alive
-Exiting heartbeat 0
-Exiting worker heartbeat 5001
-ZWorker finishes writing to file /Users/hoangho/project-2-group-29/output_files/simple.txt
-Exit thread 0
-Current stack of work: []
-Everything finished
-finished outstream
-Creating a new worker
-5New Worker Created with port 5000 and heartbeat 5001
-%Starting worker heartbeat using 5001
-Starting heartbeat 
-Start distributing work
-Starting worker using 5000
-SSending message: /Users/hoangho/project-2-group-29/build/resources/test/random.txt
-At heartbeat 0 received Alive
-Exiting heartbeat 0
-Exiting worker heartbeat 5001
-ZWorker finishes writing to file /Users/hoangho/project-2-group-29/output_files/random.txt
-Exit thread 0
-Current stack of work: []
-Everything finished
-finished outstream
-Creating a new worker
-5New Worker Created with port 5000 and heartbeat 5001
-%Starting worker heartbeat using 5001
-Start distributing work
-Starting heartbeat 
-Starting worker using 5000
-At heartbeat 0 received Alive
-Exiting heartbeat 0
-Sending message: 
-Exiting worker heartbeat 5001
-Exit thread 0
-Exiting worker 5000
-Current stack of work: []
-Everything finished
-finished outstream
-Creating a new worker
-5New Worker Created with port 5000 and heartbeat 5001
-%Starting worker heartbeat using 5001
-Start distributing work
-Starting worker using 5000
-Starting heartbeat 
-At heartbeat 0 received Alive
-Exiting heartbeat 0
-Sending message: 
-Exiting worker heartbeat 5001
-Exit thread 0
-Exiting worker 5000
-Creating a new worker
-5New Worker Created with port 5002 and heartbeat 5003
-%Starting worker heartbeat using 5003
-Starting worker using 5002
-Start distributing work
-Starting heartbeat 
-At heartbeat 1 received Alive
-Exiting heartbeat 1
-Sending message: 
-Exiting worker heartbeat 5003
-Exit thread 1
-Exiting worker 5002
-Creating a new worker
-5New Worker Created with port 5004 and heartbeat 5005
-%Starting worker heartbeat using 5005
-Starting worker using 5004
-Start distributing work
-Starting heartbeat 
-Sending message: 
-At heartbeat 2 received Alive
-Exiting heartbeat 2
-Exiting worker heartbeat 5005
-Exit thread 2
-Exiting worker 5004
-Current stack of work: []
-Everything finished
-finished outstream
-Creating a new worker
-5New Worker Created with port 5000 and heartbeat 5001
-%Starting worker heartbeat using 5001
-Starting worker using 5000
-Starting heartbeat 
-Start distributing work
-At heartbeat 0 received Alive
-Exiting heartbeat 0
-Sending message: 
-Exiting worker heartbeat 5001
-Exit thread 0
-Exiting worker 5000
-Creating a new worker
-5New Worker Created with port 5002 and heartbeat 5003
-%Starting worker heartbeat using 5003
-Start distributing work
-Starting heartbeat 
-Starting worker using 5002
-Sending message: 
-At heartbeat 1 received Alive
-Exiting heartbeat 1
-Exiting worker heartbeat 5003
-Exit thread 1
-Exiting worker 5002
-Creating a new worker
-5New Worker Created with port 5004 and heartbeat 5005
-%Starting worker heartbeat using 5005
-Start distributing work
-Starting worker using 5004
-Starting heartbeat 
-Sending message: 
-At heartbeat 2 received Alive
-Exiting heartbeat 2
-Exiting worker heartbeat 5005
-Exit thread 2
-Exiting worker 5004
-Creating a new worker
-5New Worker Created with port 5006 and heartbeat 5007
-%Starting worker heartbeat using 5007
-Starting worker using 5006
-Starting heartbeat 
-Start distributing work
-Sending message: 
-At heartbeat 3 received Alive
-Exiting heartbeat 3
-Exiting worker heartbeat 5007
-Exit thread 3
-Exiting worker 5006
-Current stack of work: []
-Everything finished
-finished outstream
